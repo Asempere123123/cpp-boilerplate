@@ -4,3 +4,4 @@ Makefile
 MyProject
 CMakeFiles
 compile_commands.json
+.cache
